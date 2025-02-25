@@ -1,0 +1,2 @@
+../Core/Src/systick.c:10:7:delay_ms	24	static
+../Core/Src/systick.c:32:7:create_1hz_interrupt_systick	4	static
